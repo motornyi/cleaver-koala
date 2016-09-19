@@ -11,3 +11,12 @@ document.onload = function() {
   style.setAttribute('type', 'text/css');
   style.setAttribute('href', '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css');
 }
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  var elements = document.getElementsByTagName('code');
+  console.log(elements);
+  elements.forEach(function(el) {
+    el.classList.add('')
+  })
+ });
