@@ -27,6 +27,11 @@ img {
 
 .slide {
   background-color: #222;
+  opacity: 1;
+  transition: opacity .3s;
+}
+
+.slide-content {
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
@@ -37,12 +42,8 @@ img {
   flex-wrap: wrap;
 }
 
-.slide-content {
-  overflow: visible;
-}
-
 .hidden {
-  display: none;
+  opacity: 0;
 }
 /*
 .slide .slide-content {
