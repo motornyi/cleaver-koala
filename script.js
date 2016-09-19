@@ -16,7 +16,4 @@ document.onload = function() {
 document.addEventListener("DOMContentLoaded", function() {
   var elements = document.getElementsByTagName('code');
   console.log(elements);
-  elements.forEach(function(el) {
-    el.classList.add('')
-  })
  });
