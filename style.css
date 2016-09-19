@@ -35,8 +35,6 @@ img {
 
 .slide {
   background-color: #222;
-  opacity: 1;
-  transition: opacity .3s;
 }
 
 .slide-content {
@@ -51,8 +49,7 @@ img {
 }
 
 .hidden {
-  opacity: 0;
-  display: inherit;
+  display: none;
 }
 
 .progress {
