@@ -7,12 +7,6 @@ body {
   font-weight: 100;
 }
 
-body * {
-  font-family: 'Roboto', sans-serif;
-  color: #ddd;
-  font-weight: 100;
-}
-
 h1 {
   text-transform: uppercase;
   text-align: center;
