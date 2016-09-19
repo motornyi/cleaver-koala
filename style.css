@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+}
+
+img {
+  max-width: 100%
+}
+
+.slide {
+  background-color: #222;
+}
