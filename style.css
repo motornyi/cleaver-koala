@@ -1,7 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto';
 @import 'https://fonts.googleapis.com/css?family=Inconsolata';
-@import 'https://fonts.googleapis.com/css?family=Stalinist+One';
-
+@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -65,7 +64,7 @@ pre code {
 }
 
 .author .name {
-  font-family: 'Stalinist One', cursive;
+  font-family: 'Press Start 2P', cursive;
 }
 
 /*
