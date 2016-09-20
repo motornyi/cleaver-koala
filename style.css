@@ -1,4 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Inconsolata';
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -50,8 +51,13 @@ img {
   z-index: 100;
   height: 5px;
 }
+
 .progress-bar {
   background-color: rgba(114,197,224, .9);
   transition: .3s;
   height: 5px;
+}
+
+pre code {
+  font-family: 'Inconsolata', monospace;
 }
