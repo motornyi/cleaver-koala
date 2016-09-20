@@ -30,9 +30,6 @@ img {
 
 .slide {
   background-color: #222;
-}
-
-.slide-content {
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
