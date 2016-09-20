@@ -68,6 +68,10 @@ pre code {
   font-family: 'Inconsolata', monospace;
 }
 
+pre {
+  font-size: 90%;
+}
+
 /*
 * Copyright (c) highlightjs.org
 */
