@@ -40,6 +40,13 @@ img {
   flex-wrap: wrap;
 }
 
+.slide-content {
+  height: auto;
+  max-height: 90%;
+  width: auto;
+  max-width: 90%;
+}
+
 .hidden {
   display: none;
 }
