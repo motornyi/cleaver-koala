@@ -56,6 +56,10 @@ img {
   flex-wrap: wrap;
 }
 
+.light .slide {
+  background-color: #ddd;
+}
+
 .slide-content {
   height: auto;
   max-height: 90%;
