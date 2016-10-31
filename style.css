@@ -14,6 +14,11 @@ body {
   font-weight: 100;
 }
 
+.light {
+  color: #222;
+  background-color: #ddd;
+}
+
 h1 {
   text-transform: uppercase;
   text-align: center;
